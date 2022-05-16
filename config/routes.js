@@ -1,5 +1,5 @@
 const express =require("express") 
-const routes = expres.routes()
+const routes = express.router()
 
 
 let db = [
