@@ -15,5 +15,5 @@ app.use(routers)
 
 
 app.listen(30000, () => { 
-    console.log("express started at index.js")
+    console.log("express started at http://localhost:30000")
 })
