@@ -32,7 +32,7 @@ let.newDB = db.filter(item => {
 
 })
       db = newdb
-      return res.send(nemdb)
+      return res.send(newdb)
 })
      
 
